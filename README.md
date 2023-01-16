@@ -1,7 +1,7 @@
 # Task list
 https://maciej8601.github.io/todos-list-react/
 
-Hello! Here you will be able to add some tasks to do. 
+Hello! You will be able to add some tasks to do in this website. 
 
 ## Used Technologies:
 - HTML
