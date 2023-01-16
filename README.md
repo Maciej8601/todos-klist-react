@@ -1,6 +1,18 @@
 # Task list
 
-Description
+Hello! Here you will be able to add some tasks to do. 
+
+## Used Technologies:
+- HTML
+- CSS BEM framework,
+- Grid,
+- FlexBox,
+- JavaScript ES6+
+- Markdown
+- Immutability
+- Webpack, npm
+- React-Router
+- LocalStorage
 
 # Getting Started with Create React App
 
