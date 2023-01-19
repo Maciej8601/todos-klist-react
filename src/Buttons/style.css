@@ -20,8 +20,8 @@
     color: hsl(180, 100%, 45%);
 }
 
-.buttons__button--disabled {
-    justify-content: space-around;
+.buttons__button:disabled {
     border: none;
     cursor: not-allowed;
+    color: #ccc;
 }
