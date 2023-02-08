@@ -3,7 +3,7 @@ https://maciej8601.github.io/todos-list-react/
 
 Hello! Here you can add some tasks to do. When the task is done you can check it or remove it from the list or you can check all task to done and hide/show done tasks.
 
-![Task-list]([https://github.com/Maciej8601/todos-list-react/blob/c36454959e4318311c2c9c44416fa93877335ac7/public/Todo%20list%20in%20react.gif])
+![Todos list]([https://github.com/Maciej8601/todos-list-react/blob/c36454959e4318311c2c9c44416fa93877335ac7/public/Todo%20list%20in%20react.gif])
 
 ## Used Technologies:
 - HTML
